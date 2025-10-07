@@ -4,7 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hello Kübra!</h1>
+      <h1>Hello Kübra!
+        ilk branch ımı oluşturdum.
+      </h1>
     </div>
   );
 }
